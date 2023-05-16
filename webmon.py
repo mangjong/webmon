@@ -6,6 +6,8 @@ import time
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 '''
+미완성 코드
+
 > 웹사이트 정기적인 상태 체크를 통한 모니터링  / 1분 단위
 > 최종적으로 별도로 상태 체크를 위한 웹사이트 구축
 > 상태를 확인했을 때, 로그 기록 남기기
